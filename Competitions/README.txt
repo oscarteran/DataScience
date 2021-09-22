@@ -1,0 +1,1 @@
+This folder contains the notebooks made for the various competitions offered on the Kaggle website.

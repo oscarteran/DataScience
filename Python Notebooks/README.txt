@@ -1,0 +1,2 @@
+In this folder you will find different notebooks that contain different commands useful for learning Python and specifically data science. These files are separated by library and topic. The information is a compilation of texts, courses and videos. 
+If necessary, these notebooks can be downloaded, shared and edited partially or completely.
